@@ -1,6 +1,5 @@
 # Frontends Projects - Todo App
 
-[Todo App]
 
 ---
 Project: Todo App\
